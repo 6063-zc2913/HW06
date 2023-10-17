@@ -2,7 +2,7 @@ let s0 = "Two roads diverged in a yellow wood";
 let s1 = "And sorry I could not travel both";
 let s2 = "And be one traveler, long I stood";
 let s3 = "And looked down one as far as I could to where it bent in the undergrowth";
-let s4 = "Then took the other, as just as fair And having perhaps the better claim Because it was grassy and wanted wear,";
+let s4 = "Then took the other as just as fair And having perhaps the better claim Because it was grassy and wanted wear";
 
 let words3;
 let words4;
