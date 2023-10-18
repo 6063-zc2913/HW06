@@ -28,7 +28,7 @@ function draw() {
   for (let i = 0; i < words3.length; i++) {
     if (i * 15 < frameCount) {
       let word3 = words3[i].toUpperCase();
-      let xy3 = map(i, 0, words3.length, 60, 400);
+      let xy3 = map(i, 0, words3.length, 60, height/2);
       text(word3, width/2, xy3, -100);
     }
     
